@@ -25,6 +25,8 @@ Eğitim gördüğüm süreç boyunca   C#,C, PHP,Java,Python, .net, Microsoft SQ
 <a href="https://medium.com/@melikenrkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@eyup48244" height="30" width="40" /></a>
 </p>
 
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@enesaks)
+
 
 
 <!--
