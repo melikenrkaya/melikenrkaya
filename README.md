@@ -37,8 +37,7 @@ Eğitim gördüğüm süreç boyunca   C#,C, PHP,Java,Python, .net, Microsoft SQ
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-
-![](https://github-profile-trophy.vercel.app/?username=melikenrkaya&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![snake gif](https://github.com/melikenrkaya/melikenrkaya/blob/output/github-contribution-grid-snake.gif)
 
 
 
