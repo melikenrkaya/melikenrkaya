@@ -38,5 +38,7 @@ Eğitim gördüğüm süreç boyunca   C#,C, PHP,Java,Python, .net, Microsoft SQ
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+![GitHub Contribution Graph (Dark)](https://github.com/melikenrkaya/melikenrkaya/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
