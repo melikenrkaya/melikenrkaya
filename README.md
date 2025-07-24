@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=melikenrkaya&color=blue)
 
-<h3 align="center">Ben Melikenur Kaya! Bolu Abant İzzet Baysal Üniversitesinde Bilgisayar mühendisliği 3.sınıf öğrencisiyim. Alanımla alakalı öğrenci topluluklarına üyeyim. Daha önce yapılmayanı yapmak ve zor şeylerle uğraşmayı severim.
+<h3 align="center">Ben Melikenur Kaya! Bolu Abant İzzet Baysal Üniversitesinde Bilgisayar mühendisliği 4.sınıf öğrencisiyim. Alanımla alakalı öğrenci topluluklarına üyeyim. Daha önce yapılmayanı yapmak ve zor şeylerle uğraşmayı severim.
 
 Eğitim gördüğüm süreç boyunca   C#,C, PHP,Java,Python, .net, Microsoft SQL Server eğitimi aldım. Java ile Nesne Tabanlı Yazılım alanında deneyim kazandım. Bir süre okulumuzun Siber güvenlik kulübünde denetim kurulu üyesi olarak çalıştım.
 
