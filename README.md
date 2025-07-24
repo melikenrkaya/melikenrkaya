@@ -22,7 +22,8 @@ Eğitim gördüğüm süreç boyunca   C#,C, PHP,Java,Python, .net, Microsoft SQ
 <p align="left">
 <a href="https://linkedin.com/in/melikenur-kaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyüp olgun" height="30" width="40" /></a>
 <a href="https://instagram.com/melikenr_kya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eypolgn" height="30" width="40" /></a>
-<a href="https://medium.com/@melikenrkaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eypolgn" height="30" width="40" /></a>
+<a href="https://medium.com/@melikenrkaya" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" height="30" width="40" /></a>
+
 </p>
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@melikenrkaya)
