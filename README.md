@@ -1,43 +1,4 @@
 
-MelikenurKaya_Cv_guncel_resimli.docx
-MelikenurKaya_Cv_guncel_
-resimli
-.docx
-DOCX
-BU CVYE BAK
-
-GitHub profil README'sini güncelledim: README.md. Bunu GitHub'a ben yüklemedim. melikenrkaya/melikenrkaya reposundaki README'nin yerine kendin yapıştırman gerekiyor.
-
-Değişenler
-
-"4. sınıf öğrencisiyim" yerine mezuniyet bilgisi geldi.
-Fintag'daki Backend .NET Developer görevi ve ekonomist.com.tr çalışması eklendi.
-Python, PHP ve C gibi eski dil listesini kaldırdım. Başlık altı artık güncel yığını gösteriyor.
-Yeni "Öne Çıkan Projeler" bölümü: MEYBEAT (meybeat.com linkli), CompanyApp, Altın Fiyat Takip ve Masa Rezervasyon.
-ICEM konferans bildirisi eklendi.
-Test vurgusu tek cümleyle sınırlı, CV'deki gibi dengeli.
-Rozetlere PostgreSQL, Redis, Docker, AWS ve Git eklendi. MySQL rozetini kaldırdım.
-Kontrol etmeni istediğim üç şey
-
-Yılan animasyonu (output dalındaki contribution grid) ve ziyaretçi sayacı olduğu gibi duruyor.
-Instagram ve Medium linkleri aynı kaldı. İş başvurusunda Instagram'ı kaldırmak isteyebilirsin.
-E-posta ve Ankara bilgisini CV'den aldım. Konum yazmak istemezsen o satırı sil.
-boyle gzoukuyor su an
-
-Satır sonları kaybolmuş, liste ve başlıklar düz metne dönmüş, rozetler "Show Image" olarak görünüyor. Markdown'a güvenmek yerine her şeyi HTML ile yazıyorum, bu şekilde yapıştırma biçimi bozulsa da düzgün görünür.
-
-Updated
-README.md dosyasını baştan yazdım. Başlıklar, liste, rozetler ve görseller artık HTML etiketleriyle yazıldı. Bunun GitHub'da düzgün görünüp görünmediğini henüz denemedim.
-
-Ekran görüntüsünde sorun şuydu: satır sonları kaybolduğu için liste maddeleri tek paragraf olmuş, ## başlıkları düz metne dönmüş ve rozetler "Show Image" yazısına dönmüştü. Bu genelde metin GitHub editörüne kopyala-yapıştırla alındığında, özellikle bir önizleme veya sohbet penceresinden kopyalanınca olur.
-
-Doğru yüklemek için şunları öneririm:
-
-melikenrkaya/melikenrkaya reposunda README.md'yi aç ve kalem simgesine tıkla.
-Eski içeriği tamamen sil.
-Yeni dosyayı Notepad ya da VS Code'da aç ve oradan kopyala. Sohbetten veya önizlemeden kopyalama.
-Commit etmeden önce "Preview" sekmesine bakarak kontrol et.
-"Show Image" yine çıkarsa, rozetleri veren siteler (shields.io, komarev) o an açılmıyor olabilir. O zaman ekran görüntüsünü yeniden at, birlikte bakalım.
 
 
 
